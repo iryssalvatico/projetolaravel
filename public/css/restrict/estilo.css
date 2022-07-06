@@ -16,8 +16,7 @@
    }
    header {
     display: flex;
-    border-bottom: 0.5rem solid
-   var(--secondary);
+    border-bottom: 0.5rem solid var(--secondary);
    }
    header picture img {
     height: 6rem;
@@ -25,7 +24,7 @@
    header nav {
     width: 100%;
     display: flex;
- justify-content: flex-end;
+    justify-content: flex-end;
 }
 header nav ul {
  list-style-type: none;
