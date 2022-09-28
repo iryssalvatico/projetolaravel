@@ -12,7 +12,7 @@
         <button type="submit" class="bg-primary rounded-lg p-2">Enviar</button>
         <button type="button" class="bg-secondary rounded-lg p-2" wire:click="limpar()">Limpar</button>
     </form>
-    <table>
+    <table class="w-full">
         <thead>
             <tr class="border">
                 <th>Título</th>
